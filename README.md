@@ -6,6 +6,12 @@
 ### 🚀 Data Architect | AI & Analytics Visionary
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Decoding+Data+to+Drive+Innovation;Building+Intelligent+Data+Experiences;Transforming+Raw+Information+into+Strategic+Insights" alt="Typing SVG" />
+<div align="center">
+
+# 🌌 AMIT KANZARIYA
+### 🚀 Data Scientist | AI & Analytics Visionary
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Solving+Complex+Problems+with+Data;Building+Intelligent+AI+Systems;Transforming+Insights+into+Action" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -18,6 +24,8 @@
 | :--- | :--- |
 | **Last Synchronized** | `2026-05-28 09:35:49 UTC` |
 | **Tactical Tip** | `SQL: Indexing columns used in JOIN and WHERE clauses can drastically improve query speed.` |
+| **Last Synchronized** | `2026-05-28 11:00:00 UTC` |
+| **Tactical Tip** | `Data Science: Always perform thorough Exploratory Data Analysis (EDA) before model building.` |
 <!-- SYSTEM_STATUS_END -->
 
 ---
@@ -45,6 +53,13 @@
       🎯<br>
       <b>Strategic Growth</b><br>
       Business Impact
+      <b>Deep Learning</b><br>
+      Neural Networks
+    </td>
+    <td align="center" width="25%">
+      🎯<br>
+      <b>AI Strategy</b><br>
+      Problem Solving
     </td>
   </tr>
 </table>
@@ -63,6 +78,7 @@
 ### 🔮 Visualization & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -113,6 +129,23 @@
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%">
       <p>More projects arriving in deep space soon...</p>
     </td>
+      <h3 align="center">📊 Data Analysis Exploration</h3>
+      <p align="left">Comprehensive end-to-end data analysis projects exploring complex datasets to uncover hidden patterns and insights.</p>
+      <div align="center">
+        <a href="./projects/Data-Analysis-Project">
+          <img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI/ML Model Implementation</h3>
+      <p align="left">Advanced machine learning models implemented to solve real-world predictive and generative challenges.</p>
+      <div align="center">
+        <a href="./projects/AI-ML-Project">
+          <img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -140,6 +173,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="85%"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kanzariya-Amit&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="85%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzariya-Amit&layout=compact&theme=radical&hide_border=true" width="85%"/>
+
 </div>
 
 ---
@@ -149,6 +188,7 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=herit007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=kanzariya-Amit&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -170,6 +210,14 @@
 <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/amit-kanzariya/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kanzariyaa562@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -179,5 +227,8 @@
 ### ⭐️ Designed by [herit007](https://github.com/herit007)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
+### ⭐️ Optimized for [kanzariya-Amit](https://github.com/kanzariya-Amit)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4B4B&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
 
 </div>
