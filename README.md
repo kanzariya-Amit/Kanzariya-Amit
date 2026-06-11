@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌌 HERIT TANNA
+# 🌌 KANZARIYA AMIT
 ### 🚀 Data Architect | AI & Analytics Visionary
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Decoding+Data+to+Drive+Innovation;Building+Intelligent+Data+Experiences;Transforming+Raw+Information+into+Strategic+Insights" alt="Typing SVG" />
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/herit007/herit007/output/profile-night-green.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Kanzariya-Amit/Kanzariya-Amit/output/profile-night-green.svg" width="100%">
 
 </div>
 
@@ -134,28 +134,33 @@
 <div align="center">
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herit007&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanzariya-Amit&theme=tokyonight" width="100%"/>
 
 <br><br>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=
+Kanzariya-Amit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=herit007&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=
+Kanzariya-Amit&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herit007&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+Kanzariya-Amit&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <!-- Repositories Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herit007&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=
+Kanzariya-Amit&theme=tokyonight" width="49%"/>
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=herit007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=
+Kanzariya-Amit&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -164,7 +169,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=herit007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=
+Kanzariya-Amit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 
 </div>
 
@@ -174,25 +180,22 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
+<a href="http://linkedin.com/in/amit-kanzariya-56b210395/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:blender740@gmail.com">
+<a href="mailto:kanzariya562@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://herit007.github.io">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐️ Designed by [herit007](https://github.com/herit007)
+### ⭐️ Designed by [
+Kanzariya-Amit](https://github.com/
+Kanzariya-Amit)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
 
