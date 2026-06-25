@@ -101,7 +101,7 @@
   <tr>
     <td width="50%">
       <h3 align="center">💱 INR Currency Pulse</h3>
-      <img src="https://raw.githubusercontent.com/herit007/Data-Analytics-Portfolio/main/INR-Currency-Dashboard/currency_dashboard.png" width="100%">
+      <img src="https://github.com/kanzariya-Amit/power_bi-_work" width="100%">
       <p align="left">Real-time tracking and YoY growth analysis of INR against major global currencies like USD, EUR, and GBP.</p>
       <div align="center">
         <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard">
