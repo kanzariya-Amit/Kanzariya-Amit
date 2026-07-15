@@ -104,7 +104,7 @@
       <img src="https://github.com/kanzariya-Amit/power_bi-_work" width="100%">
       <p align="left">Real-time tracking and YoY growth analysis of INR against major global currencies like USD, EUR, and GBP.</p>
       <div align="center">
-        <a href="https://github.com/kanzariya-Amit/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard">
+        <a href="https://github.com/kanzariya-Amit/power_bi-_work/tree/main/INR-Currency-Dashboard">
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </div>
